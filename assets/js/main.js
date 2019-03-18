@@ -7,8 +7,8 @@ jQuery(document).ready(function ($) {
         loop: true,
         items: 1,
                 autoplay: true,
-                    animateOut: 'slideOutDown',
-                    animateIn: 'flipInX',
+                    animateOut: 'fadeOut',
+                    animateIn: 'bounceInLeft',
                     smartSpeed: 450
     });
 
