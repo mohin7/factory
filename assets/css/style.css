@@ -159,7 +159,9 @@ a:hover {
     margin-bottom: 0;
 }
 
-
+.site-logo a{
+    color: #000;
+}
 .main-menu ul {
     margin: 0;
     padding: 0;
